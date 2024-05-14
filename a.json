@@ -1,0 +1,73 @@
+[{
+        "img": "/imgages/img1.png",
+        "heading": "Dresses",
+        "text": "Confidence starts with what you wear",
+        "option": ["Maxi Dresses", "Midi Dresses", "Mini Dresses", "Bodycon Dresses", "View All Dresses"],
+        "bg-color":"#fff5f5",
+        "hr-color":"#fbe7e6"
+    },
+    {
+        "img": "/imgages/img2.png",
+        "heading": "Tops",
+        "text": "Amp up your style with our top",
+        "option": ["Blouses", "Tshirts", "Shirts", "Tank Tops", "View All Tops"],
+        "bg-color":"#f8f6ff",
+        "hr-color":"#efecfd"
+    },
+    {
+        "img": "/imgages/img3.png",
+        "heading": "Bottoms",
+        "text": "Discover perfects fits for yourself",
+        "option": ["Skirts", "Shorts", "Jeans", "Trousers", "View All Bottoms"],
+        "bg-color":"#fdfaef",
+        "hr-color":"#faf5e1"
+    },
+    {
+        "img": "/imgages/img4.png",
+        "heading": "Co ords",
+        "text": "Matching seats that redefine fashion",
+        "option": [""],
+        "bg-color":"#fff5f5",
+        "hr-color":""
+    },
+    {
+        "img": "/imgages/img5.png",
+        "heading": "Denims",
+        "text": "Elevate style with versatile denims",
+        "option": [""],
+        "bg-color":"#f3f9ff",
+        "hr-color":""
+    },
+    {
+        "img": "/imgages/img6.png",
+        "heading": "Tshirts",
+        "text": "Comfort and stylish T-Shirts",
+        "option": [""],
+        "bg-color":"#fdfaef",
+        "hr-color":""
+    },
+    {
+        "img": "/imgages/img7.png",
+        "heading": "Winterwear",
+        "text": "Cosy and stylish winter essentials",
+        "option": ["Sweaters", "Sweatshirts", "Coats", "View All Winterwears"],
+        "bg-color":"#f8f6ff",
+        "hr-color":"#ece8fc"
+    },
+    {
+        "img": "/imgages/img8.png",
+        "heading": "Lingerie",
+        "text": "Empower in style with bold lingerie",
+        "option": ["Bra", "Bralette", "Slip Dresses", "Matching Sets", "Baby Dolls", "Panties", "View All Lingerie"],
+        "bg-color":"#eefaef",
+        "hr-color":"#e3f3e5"
+    },
+    {
+        "img": "/imgages/img9.png",
+        "heading": "Jumpsuits/Bodysuits",
+        "text": "Express yourself boldly with onesies",
+        "option": ["Jumpsuits", "Bodysuits", "Playsuits", "View All Jumpsuits/Bodysuits"],
+        "bg-color":"#f3f9ff",
+        "hr-color":"#dce9f6"
+    }
+]
